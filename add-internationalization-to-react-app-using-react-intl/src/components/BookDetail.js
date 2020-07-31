@@ -3,7 +3,8 @@ import {
   FormattedMessage,
   FormattedDate,
   FormattedTime,
-  FormattedRelativeTime
+  FormattedRelativeTime,
+  FormattedNumber
 } from 'react-intl' 
 import {meanBy, round, sortBy} from 'lodash';
 
