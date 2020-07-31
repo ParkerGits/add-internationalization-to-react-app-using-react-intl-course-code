@@ -86,7 +86,7 @@ const BookDetail = ({match}) => {
                   day="2-digit" /><br />
                 <FormattedRelativeTime 
                   value={-1 * Math.floor((Date.now() - review.date)/((1000*60*60*24)))}
-                  unit="year"
+                  unit="day"
                   style="short"
                   numeric="always"/><br />
 
