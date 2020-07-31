@@ -5,35 +5,52 @@
     "author": "Blake Crouch",
     "description": "“Are you happy with your life?”\n\nThose are the last words Jason Dessen hears before the masked abductor knocks him unconscious.\n\nBefore he awakens to find himself strapped to a gurney, surrounded by strangers in hazmat suits.\n\nBefore a man Jason’s never met smiles down at him and says, “Welcome back, my friend.”\n\nIn this world he’s woken up to, Jason’s life is not the one he knows. His wife is not his wife. His son was never born. And Jason is not an ordinary college physics professor, but a celebrated genius who has achieved something remarkable. Something impossible.\n\nIs it this world or the other that’s the dream? And even if the home he remembers is real, how can Jason possibly make it back to the family he loves? The answers lie in a journey more wondrous and horrifying than anything he could’ve imagined—one that will force him to confront the darkest parts of himself even as he battles a terrifying, seemingly unbeatable foe.\n\nFrom the author of the bestselling Wayward Pines trilogy, Dark Matter is a brilliantly plotted tale that is at once sweeping and intimate, mind-bendingly strange and profoundly human—a relentlessly surprising science-fiction thriller about choices, paths not taken, and how far we’ll go to claim the lives we dream of.",
     "image": "https://images.gr-assets.com/books/1472119680l/27833670.jpg",
-    "reviews": [],
+    "reviews": [
+      {
+        "rating": 5,
+        "name": "Gretchen Cannon",
+        "body": "Occaecat ut ut mollit occaecat id fugiat velit est culpa. Nostrud incididunt commodo adipisicing duis cupidatat officia nisi cupidatat sit deserunt consectetur ex veniam. Pariatur qui in sit ut.",
+        "date": 1491111687199,
+        "avatar": "http://i.pravatar.cc/64?img=1"
+      },
+      {
+        "rating": 1,
+        "name": "Kirby Evans",
+        "body": "Ut irure excepteur in culpa. Elit amet enim qui laboris do labore duis tempor exercitation quis voluptate officia enim proident. Et ex eu magna elit et culpa quis duis esse fugiat. Aliqua esse reprehenderit non adipisicing deserunt nostrud commodo tempor. Incididunt labore id anim aliqua sit qui. Ex ad est officia ea esse et. Consectetur tempor nostrud et ea culpa.",
+        "date": 1492668996053,
+        "avatar": "http://i.pravatar.cc/64?img=2"
+      },
+      {
+        "rating": 4,
+        "name": "Alicia Warner",
+        "body": "Dolor fugiat mollit do occaecat mollit aute incididunt esse cillum dolore commodo qui do minim. Aliqua proident aliqua ullamco sunt fugiat duis et exercitation deserunt non exercitation cupidatat id minim. Exercitation voluptate elit consectetur consectetur qui exercitation reprehenderit ut. Commodo laborum eiusmod sit nostrud sunt ea dolor est consequat enim est occaecat officia qui. Dolore nisi nulla laborum consectetur.",
+        "date": 1491743020373,
+        "avatar": "http://i.pravatar.cc/64?img=3"
+      },
+      {
+        "rating": 3,
+        "name": "Pope Robbins",
+        "body": "Esse consectetur exercitation sit qui minim commodo veniam tempor cupidatat qui fugiat occaecat sit. Magna fugiat non mollit commodo sit enim culpa. Pariatur reprehenderit est enim incididunt pariatur ullamco anim cupidatat labore. Duis magna id fugiat nulla exercitation ipsum.",
+        "date": 1489702832337,
+        "avatar": "http://i.pravatar.cc/64?img=4"
+      }
+    ],
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "16.19",
-          "es": "15.09",
-          "fr": "15.09"
-        },
+        "price": "16.19",
         "link": "https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904224",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "16.19",
-          "es": "15.09",
-          "fr": "15.09"
-        },
+        "price": "16.19",
         "link": "http://www.barnesandnoble.com/w/dark-matter-blake-crouch/1122954090",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "16.19",
-          "es": "15.09",
-          "fr": "26.10"
-        },
+        "price": "28.00",
         "link": "http://www.audible.com/pd/Sci-Fi-Fantasy/Dark-Matter-Audiobook/B01CUKULGA",
         "icon": "http://logo.clearbit.com/audible.com"
       }
@@ -92,31 +109,19 @@
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "14.00",
-          "es": "13.05",
-          "fr": "13.05"
-        },
+        "price": "14.00",
         "link": "https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "14.88",
-          "es": "13.87",
-          "fr": "13.87"
-        },
+        "price": "14.88",
         "link": "http://www.barnesandnoble.com/w/dark-matter-blake-crouch/1122954090",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "28.00",
-          "es": "26.10",
-          "fr": "26.10"
-        },
+        "price": "28.00",
         "link": "http://www.audible.com/pd/Bios-Memoirs/When-Breath-Becomes-Air-Audiobook/B0191YTGI2",
         "icon": "http://logo.clearbit.com/audible.com"
       }
@@ -133,7 +138,7 @@
         "rating": 2,
         "name": "Lillian Norman",
         "body": "Irure enim cillum commodo officia et aliquip. Proident mollit occaecat do cillum laboris. Irure sint Lorem laborum laborum id. Do minim dolore non anim voluptate id pariatur eu est in laborum. Consequat anim veniam laboris eiusmod Lorem minim ea occaecat officia quis cupidatat. Qui enim in est ex dolore dolore consequat eiusmod. In dolore eiusmod mollit laborum officia.",
-        "date": 1492426856173,
+        "date": 1493544633745,
         "avatar": "http://i.pravatar.cc/64?img=1"
       },
       {
@@ -182,31 +187,19 @@
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "20.56",
-          "es": "19.34",
-          "fr": "19.34"
-        },
+        "price": "20.56",
         "link": "https://www.amazon.com/11-22-63-Stephen-King/dp/1451627297",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "22.43",
-          "es": "21.09",
-          "fr": "21.09"
-        },
+        "price": "22.43",
         "link": "http://www.barnesandnoble.com/w/11-22-63-stephen-king/1030438404",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "31.84",
-          "es": "29.94",
-          "fr": "29.94"
-        },
+        "price": "31.84",
         "link": "http://www.audible.com/pd/Mysteries-Thrillers/22-11-63-Audiobook/B00TKGLBR6",
         "icon": "http://logo.clearbit.com/audible.com"
       }
@@ -258,31 +251,19 @@
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "9.74",
-          "es": "9.08",
-          "fr": "9.08"
-        },
+        "price": "9.74",
         "link": "https://www.amazon.com/Jayber-Crow-Wendell-Berry/dp/1582431604",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "16.08",
-          "es": "14.99",
-          "fr": "14.99"
-        },
+        "price": "16.08",
         "link": "http://www.barnesandnoble.com/w/jayber-crow-wendell-berry/1003954494",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "24.49",
-          "es": "22.83",
-          "fr": "22.83"
-        },
+        "price": "24.49",
         "link": "http://www.audible.com/pd/Religion-Spirituality/Jayber-Crow-Audiobook/B002VA3O7S",
         "icon": "http://logo.clearbit.com/audible.com"
       }
@@ -369,31 +350,19 @@
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "23.95",
-          "es": "22.33",
-          "fr": "22.33"
-        },
+        "price": "23.95",
         "link": "https://www.amazon.com/Out-Silent-Planet-C-Lewis/dp/1567230717",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "17.48",
-          "es": "16.29",
-          "fr": "16.29"
-        },
+        "price": "17.48",
         "link": "http://www.barnesandnoble.com/w/out-of-the-silent-planet-c-s-lewis/1100400761",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "17.47",
-          "es": "16.29",
-          "fr": "16.29"
-        },
+        "price": "17.47",
         "link": "http://www.audible.com/pd/Sci-Fi-Fantasy/Out-of-the-Silent-Planet-Audiobook/B002VA9SHI",
         "icon": "http://logo.clearbit.com/audible.com"
       }
@@ -480,31 +449,19 @@
     "merchants": [
       {
         "name": "Amazon",
-        "price": {
-          "en-US": "14.95",
-          "es": "13.94",
-          "fr": "13.94"
-        },
+        "price": "14.95",
         "link": "https://www.amazon.com/Fahrenheit-451-Ray-Bradbury/dp/1451673310",
         "icon": "https://s-media-cache-ak0.pinimg.com/564x/cc/77/ef/cc77efac50fd7637763ba7115bc4f17a.jpg"
       },
       {
         "name": "Barnes & Noble",
-        "price": {
-          "en-US": "14.88",
-          "es": "13.87",
-          "fr": "13.87"
-        },
+        "price": "14.88",
         "link": "http://www.barnesandnoble.com/w/fahrenheit-451-ray-bradbury/1100383286",
         "icon": "http://www.barnesandnobleinc.com/wp-content/themes/bninc/assets/images/favicon.ico"
       },
       {
         "name": "Audible",
-        "price": {
-          "en-US": "19.95",
-          "es": "18.60",
-          "fr": "18.60"
-        },
+        "price": "19.95",
         "link": "http://www.audible.com/pd/Classics/Fahrenheit-451-Audiobook/B00M4PXF6K",
         "icon": "http://logo.clearbit.com/audible.com"
       }
