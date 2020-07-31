@@ -58,7 +58,7 @@ const BookDetail = ({match}) => {
           </a>
         ))}
       </div>
-      <FormattedMessage id="detail.window" values={{numMerchants: book.reviews.length, small: chunks => <small>{chunks}</small>, em: chunks => <em>{chunks}</em>}} />
+      <FormattedMessage id="detail.window" values={{numMerchants: book.merchants.length, small: chunks => <small>{chunks}</small>, em: chunks => <em>{chunks}</em>}} />
       <h2>
           <FormattedMessage id="detail.reviewsHeading"/>
       </h2>
