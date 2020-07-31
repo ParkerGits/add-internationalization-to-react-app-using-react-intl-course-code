@@ -1,5 +1,9 @@
 import React from 'react';
-import { FormattedMessage } from 'react-intl'
+import { 
+  FormattedMessage,
+  FormattedDate,
+  FormattedTime 
+} from 'react-intl' 
 import {meanBy, round, sortBy} from 'lodash';
 
 import books from '../books.json';
@@ -55,7 +59,17 @@ const BookDetail = ({match}) => {
               <p>
                 <FormattedMessage id="detail.userRating" values={{name: <strong>{review.name}</strong>, rating: review.rating}}/>
                 <br />
-                {new Date(review.date).toLocaleDateString()}
+                {/* <FormattedDate
+                  value={new Date(review.date)}
+                  year="2-digit"
+                  month="2-digit"
+                  day="2-digit" /><br /> */}
+                  
+                <FormattedTime
+                  value={new Date(review.date)}
+                  year="2-digit"
+                  month="2-digit"
+                  day="2-digit" /><br />
               </p>
             </div>
             <p>{review.body}</p>
