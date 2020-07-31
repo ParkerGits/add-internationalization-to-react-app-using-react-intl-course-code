@@ -15,6 +15,11 @@ const BookDetail = ({match}) => {
   const sortedReviews = sortBy(book.reviews, 'date').reverse();
   const avgRating = round(meanBy(book.reviews, (r) => r.rating), 2)
 
+  let locale = (navigator.languages && navigator.languages[0])
+             || navigator.language
+             || navigator.userLanguage
+             || 'en-US';
+
   return (
     <div className="BookDetail">
       <div className="BookDetail-meta">
@@ -42,7 +47,14 @@ const BookDetail = ({match}) => {
           <a href={merchant.link} className="Merchant" key={merchant.name} target="_blank">
             <img src={merchant.icon} width="32" height="32" alt={merchant.name}/>
             <strong>{merchant.name}</strong>
-            <p>{merchant.price}</p>
+            <p>
+            <FormattedNumber
+              value={merchant.price[locale]}
+              style="currency"
+              currencyDisplay="symbol" 
+              currency={locale === 'en-US' ? 'USD' : 'EUR'}
+            />
+            </p>
           </a>
         ))}
       </div>
