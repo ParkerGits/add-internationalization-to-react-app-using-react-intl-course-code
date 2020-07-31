@@ -33,14 +33,14 @@ const BookDetail = ({match}) => {
       </h3>
       <div className="BookDetail-merchants">
         {book.merchants.map((merchant) => (
-          <a href={merchant.link} className="Merchant" key={merchant.name}>
+          <a href={merchant.link} className="Merchant" key={merchant.name} target="_blank">
             <img src={merchant.icon} width="32" height="32" alt={merchant.name}/>
             <strong>{merchant.name}</strong>
             <p>{merchant.price}</p>
           </a>
         ))}
       </div>
-
+      <FormattedMessage id="detail.window" values={{numMerchants: book.reviews.length, small: chunks => <small>{chunks}</small>, em: chunks => <em>{chunks}</em>}} />
       <h2>
           <FormattedMessage id="detail.reviewsHeading"/>
       </h2>
