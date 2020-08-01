@@ -11,7 +11,7 @@ import {meanBy, round, sortBy} from 'lodash';
 
 import books from '../books.json';
 
-const BookDetail = ({match, intl}) => {
+export const BookDetail = ({match, intl}) => {
   const book = books.find(book => book.id === parseInt(match.params.bookId, 10));
   const sortedReviews = sortBy(book.reviews, 'date').reverse();
   const avgRating = book.reviews.length ? round(meanBy(book.reviews, (r) => r.rating), 2) : 0;

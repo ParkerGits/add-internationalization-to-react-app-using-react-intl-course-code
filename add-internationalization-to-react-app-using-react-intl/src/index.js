@@ -15,7 +15,7 @@ let locale = (navigator.languages && navigator.languages[0])
              || 'en-US';
 
 ReactDOM.render(
-  <IntlProvider locale={locale} messages={flattenMessages(messages[locale])}>
+  <IntlProvider locale={locale} defaultLocale="en-US" messages={flattenMessages(messages[locale])}>
     <App />
   </IntlProvider>,
   document.getElementById('root')
